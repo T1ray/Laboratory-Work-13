@@ -1,0 +1,106 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lab12/1.0.0": {
+        "dependencies": {
+          "AdditionalFunctions": "1.0.0",
+          "ClassLibraryLab10": "1.0.0",
+          "ClassLibraryLab9": "1.0.0",
+          "CommonClasses": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Lab12.dll": {}
+        }
+      },
+      "AdditionalFunctions/1.0.0": {
+        "runtime": {
+          "AdditionalFunctions.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ClassLibraryLab10/1.0.0": {
+        "dependencies": {
+          "AdditionalFunctions": "1.0.0",
+          "ClassLibraryLab9": "1.0.0",
+          "CommonClasses": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibraryLab10.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ClassLibraryLab9/1.0.0": {
+        "dependencies": {
+          "AdditionalFunctions": "1.0.0",
+          "CommonClasses": "1.0.0",
+          "Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibraryLab9.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CommonClasses/1.0.0": {
+        "runtime": {
+          "CommonClasses.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Interfaces/1.0.0": {
+        "runtime": {
+          "Interfaces.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdditionalFunctions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryLab10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryLab9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

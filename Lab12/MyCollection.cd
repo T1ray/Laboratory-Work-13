@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab12.MyCollection&lt;TKey, TValue&gt;">
+    <Position X="11.25" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAAAAAAAEABAQiAAABBQAAAQAAAAEAAAgAADQIAA=</HashCode>
+      <FileName>MyCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab12.AVLTree&lt;TKey, TValue&gt;">
+    <Position X="8.25" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAEgAACAEAAgAABBAAAFIAAIAAAAAAABAIAA=</HashCode>
+      <FileName>AVLTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab12.BalancedTreeNode&lt;TKey, TValue&gt;">
+    <Position X="5.25" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQEAAAAAAAAAAAAAAAACACgAAAAAAA=</HashCode>
+      <FileName>TreeNodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
