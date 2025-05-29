@@ -26,3 +26,4 @@ D:\University\Proga\Laboratory work 13\Lab13\Lab13\obj\Debug\net8.0\refint\Lab13
 D:\University\Proga\Laboratory work 13\Lab13\Lab13\obj\Debug\net8.0\Lab13.pdb
 D:\University\Proga\Laboratory work 13\Lab13\Lab13\obj\Debug\net8.0\Lab13.genruntimeconfig.cache
 D:\University\Proga\Laboratory work 13\Lab13\Lab13\obj\Debug\net8.0\ref\Lab13.dll
+D:\University\Proga\Laboratory work 13\Lab13\Lab13\obj\Debug\net8.0\Lab13.sourcelink.json

@@ -17,7 +17,7 @@ public class EventsLabortory
         Console.WriteLine("3. Обновить/Добавить элемент в коллекции (по ID ключа, через индексатор)");
         Console.WriteLine("4. Очистить коллекцию");
         Console.WriteLine("5. Вывести элементы коллекции (через foreach)");
-        Console.WriteLine("6. Вывести Журнал 1 (все события коллекции)");
+        Console.WriteLine("6. Вывести журнал 1");
         Console.WriteLine("7. Выход");
     }
 

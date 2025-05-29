@@ -66,7 +66,7 @@ public class MyObservableCollection<TKey, TValue> : MyCollection<TKey, TValue>
         TValue? value;
         bool isDeleted = false;
         base.TryGetValue(item.Key, out value);
-        if (value.Equals(item.Value))
+        if (item.Value.Equals(value))
         {
             isDeleted = base.Remove(item);
             EventCollectionCountChanged(new CollectionHandlerEventArgs("Удален элемент", item));

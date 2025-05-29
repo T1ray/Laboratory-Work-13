@@ -137,3 +137,4 @@ D:\University\Proga\Laboratory work 13\Lab13\ClassLibraryLab9\obj\Debug\net8.0\C
 D:\University\Proga\Laboratory work 13\Lab13\ClassLibraryLab9\obj\Debug\net8.0\refint\ClassLibraryLab9.dll
 D:\University\Proga\Laboratory work 13\Lab13\ClassLibraryLab9\obj\Debug\net8.0\ClassLibraryLab9.pdb
 D:\University\Proga\Laboratory work 13\Lab13\ClassLibraryLab9\obj\Debug\net8.0\ref\ClassLibraryLab9.dll
+D:\University\Proga\Laboratory work 13\Lab13\ClassLibraryLab9\obj\Debug\net8.0\ClassLibraryLab9.sourcelink.json

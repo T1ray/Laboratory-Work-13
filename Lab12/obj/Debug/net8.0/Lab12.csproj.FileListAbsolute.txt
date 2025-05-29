@@ -75,3 +75,4 @@ D:\University\Proga\Laboratory work 13\Lab13\Lab12\bin\Debug\net8.0\CommonClasse
 D:\University\Proga\Laboratory work 13\Lab13\Lab12\bin\Debug\net8.0\Interfaces.pdb
 D:\University\Proga\Laboratory work 13\Lab13\Lab12\obj\Debug\net8.0\Lab12.csproj.Up2Date
 D:\University\Proga\Laboratory work 13\Lab13\Lab12\obj\Debug\net8.0\ref\Lab12.dll
+D:\University\Proga\Laboratory work 13\Lab13\Lab12\obj\Debug\net8.0\Lab12.sourcelink.json
