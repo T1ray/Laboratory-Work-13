@@ -63,7 +63,7 @@ public class EventsLabortory
                     else
                     {
                         collection1.Add(instrumentToAdd.Id.Id, instrumentToAdd);
-                        Console.WriteLine($"Элемент {instrumentToAdd.Name} (ID: {instrumentToAdd.Id.Id}) добавлен в rоллекцию.");
+                        Console.WriteLine($"Элемент {instrumentToAdd.Name} (ID: {instrumentToAdd.Id.Id}) добавлен в коллекцию.");
                     }
                     break;
 
@@ -140,7 +140,7 @@ public class EventsLabortory
                         int itemCount = 0;
                         foreach (KeyValuePair<int, MusicalInstrument> pair in collection1)
                         {
-                            Console.WriteLine($"  Ключ: {pair.Key}, Значение: {pair.Value}");
+                            Console.WriteLine($" Ключ: {pair.Key}, Значение: {pair.Value}");
                             itemCount++;
                         }
                     }

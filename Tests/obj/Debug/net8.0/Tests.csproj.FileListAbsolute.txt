@@ -127,3 +127,4 @@ D:\University\Proga\Laboratory work 13\Lab13\Tests\bin\Debug\net8.0\ClassLibrary
 D:\University\Proga\Laboratory work 13\Lab13\Tests\bin\Debug\net8.0\ClassLibraryLab9.pdb
 D:\University\Proga\Laboratory work 13\Lab13\Tests\bin\Debug\net8.0\CommonClasses.pdb
 D:\University\Proga\Laboratory work 13\Lab13\Tests\bin\Debug\net8.0\Interfaces.pdb
+D:\University\Proga\Laboratory work 13\Lab13\Tests\obj\Debug\net8.0\Tests.sourcelink.json

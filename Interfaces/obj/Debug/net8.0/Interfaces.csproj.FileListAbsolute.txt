@@ -81,3 +81,15 @@ D:\University\Proga\Laboratory work 13\Lab13\Interfaces\obj\Debug\net8.0\Interfa
 D:\University\Proga\Laboratory work 13\Lab13\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
 D:\University\Proga\Laboratory work 13\Lab13\Interfaces\obj\Debug\net8.0\Interfaces.pdb
 D:\University\Proga\Laboratory work 13\Lab13\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
+C:\University\Proga\Laboratory work 13\Lab13\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\University\Proga\Laboratory work 13\Lab13\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\University\Proga\Laboratory work 13\Lab13\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\University\Proga\Laboratory work 13\Lab13\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\Proga\Laboratory work 13\Lab13\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\University\Proga\Laboratory work 13\Lab13\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\University\Proga\Laboratory work 13\Lab13\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\University\Proga\Laboratory work 13\Lab13\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+C:\University\Proga\Laboratory work 13\Lab13\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\University\Proga\Laboratory work 13\Lab13\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\University\Proga\Laboratory work 13\Lab13\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\University\Proga\Laboratory work 13\Lab13\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

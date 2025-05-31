@@ -81,3 +81,15 @@ D:\University\Proga\Laboratory work 13\Lab13\CommonClasses\obj\Debug\net8.0\Comm
 D:\University\Proga\Laboratory work 13\Lab13\CommonClasses\obj\Debug\net8.0\refint\CommonClasses.dll
 D:\University\Proga\Laboratory work 13\Lab13\CommonClasses\obj\Debug\net8.0\CommonClasses.pdb
 D:\University\Proga\Laboratory work 13\Lab13\CommonClasses\obj\Debug\net8.0\ref\CommonClasses.dll
+C:\University\Proga\Laboratory work 13\Lab13\CommonClasses\bin\Debug\net8.0\CommonClasses.deps.json
+C:\University\Proga\Laboratory work 13\Lab13\CommonClasses\bin\Debug\net8.0\CommonClasses.dll
+C:\University\Proga\Laboratory work 13\Lab13\CommonClasses\bin\Debug\net8.0\CommonClasses.pdb
+C:\University\Proga\Laboratory work 13\Lab13\CommonClasses\obj\Debug\net8.0\CommonClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\Proga\Laboratory work 13\Lab13\CommonClasses\obj\Debug\net8.0\CommonClasses.AssemblyInfoInputs.cache
+C:\University\Proga\Laboratory work 13\Lab13\CommonClasses\obj\Debug\net8.0\CommonClasses.AssemblyInfo.cs
+C:\University\Proga\Laboratory work 13\Lab13\CommonClasses\obj\Debug\net8.0\CommonClasses.csproj.CoreCompileInputs.cache
+C:\University\Proga\Laboratory work 13\Lab13\CommonClasses\obj\Debug\net8.0\CommonClasses.sourcelink.json
+C:\University\Proga\Laboratory work 13\Lab13\CommonClasses\obj\Debug\net8.0\CommonClasses.dll
+C:\University\Proga\Laboratory work 13\Lab13\CommonClasses\obj\Debug\net8.0\refint\CommonClasses.dll
+C:\University\Proga\Laboratory work 13\Lab13\CommonClasses\obj\Debug\net8.0\CommonClasses.pdb
+C:\University\Proga\Laboratory work 13\Lab13\CommonClasses\obj\Debug\net8.0\ref\CommonClasses.dll

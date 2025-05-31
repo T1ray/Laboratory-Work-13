@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab13\\Lab13.csproj": {}
+    "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab13\\Lab13.csproj": {}
   },
   "projects": {
-    "C:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj": {
+    "D:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj",
+        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj",
         "projectName": "AdditionalFunctions",
-        "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\obj\\",
+        "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj",
+        "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\teste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,25 +65,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab10\\ClassLibraryLab10.csproj": {
+    "D:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab10\\ClassLibraryLab10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab10\\ClassLibraryLab10.csproj",
+        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab10\\ClassLibraryLab10.csproj",
         "projectName": "ClassLibraryLab10",
-        "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab10\\ClassLibraryLab10.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab10\\obj\\",
+        "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab10\\ClassLibraryLab10.csproj",
+        "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab10\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\teste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -92,23 +91,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj": {
-                "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj"
+              "D:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj"
               },
-              "C:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\ClassLibraryLab9.csproj": {
-                "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\ClassLibraryLab9.csproj"
+              "D:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\ClassLibraryLab9.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\ClassLibraryLab9.csproj"
               },
-              "C:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj": {
-                "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj"
+              "D:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj"
               },
-              "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj"
+              "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj"
               }
             }
           }
@@ -143,25 +143,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\ClassLibraryLab9.csproj": {
+    "D:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\ClassLibraryLab9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\ClassLibraryLab9.csproj",
+        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\ClassLibraryLab9.csproj",
         "projectName": "ClassLibraryLab9",
-        "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\ClassLibraryLab9.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\obj\\",
+        "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\ClassLibraryLab9.csproj",
+        "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\teste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -170,20 +169,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj": {
-                "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj"
+              "D:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj"
               },
-              "C:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj": {
-                "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj"
+              "D:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj"
               },
-              "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj"
+              "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj"
               }
             }
           }
@@ -218,25 +218,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj": {
+    "D:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj",
+        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj",
         "projectName": "CommonClasses",
-        "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\obj\\",
+        "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj",
+        "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\teste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -245,6 +244,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -283,25 +283,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj": {
+    "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\obj\\",
+        "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj",
+        "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\teste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -310,6 +309,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -348,25 +348,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab12\\Lab12.csproj": {
+    "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab12\\Lab12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab12\\Lab12.csproj",
+        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab12\\Lab12.csproj",
         "projectName": "Lab12",
-        "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab12\\Lab12.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab12\\obj\\",
+        "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab12\\Lab12.csproj",
+        "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab12\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\teste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -375,26 +374,27 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj": {
-                "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj"
+              "D:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\AdditionalFunctions\\AdditionalFunctions.csproj"
               },
-              "C:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab10\\ClassLibraryLab10.csproj": {
-                "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab10\\ClassLibraryLab10.csproj"
+              "D:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab10\\ClassLibraryLab10.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab10\\ClassLibraryLab10.csproj"
               },
-              "C:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\ClassLibraryLab9.csproj": {
-                "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\ClassLibraryLab9.csproj"
+              "D:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\ClassLibraryLab9.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\ClassLibraryLab9\\ClassLibraryLab9.csproj"
               },
-              "C:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj": {
-                "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj"
+              "D:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\CommonClasses\\CommonClasses.csproj"
               },
-              "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj"
+              "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Interfaces\\Interfaces.csproj"
               }
             }
           }
@@ -429,25 +429,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab13\\Lab13.csproj": {
+    "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab13\\Lab13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab13\\Lab13.csproj",
+        "projectUniqueName": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab13\\Lab13.csproj",
         "projectName": "Lab13",
-        "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab13\\Lab13.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab13\\obj\\",
+        "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab13\\Lab13.csproj",
+        "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab13\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\teste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -456,14 +455,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab12\\Lab12.csproj": {
-                "projectPath": "C:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab12\\Lab12.csproj"
+              "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab12\\Lab12.csproj": {
+                "projectPath": "D:\\University\\Proga\\Laboratory work 13\\Lab13\\Lab12\\Lab12.csproj"
               }
             }
           }
@@ -498,7 +498,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
